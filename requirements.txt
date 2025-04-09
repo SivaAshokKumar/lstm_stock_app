@@ -1,0 +1,7 @@
+streamlit
+yfinance
+numpy
+pandas
+scikit-learn
+plotly
+torch==1.13.1
