@@ -1,7 +1,6 @@
-streamlit
 yfinance
 numpy
 pandas
+matplotlib
 scikit-learn
-plotly
-torch==1.13.1
+tensorflow
